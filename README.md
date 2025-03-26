@@ -28,10 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/seanreyn-dev/seanreyn-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Connect with me:</h2>
 
 ###
